@@ -1,0 +1,15 @@
+# 一、 在浏览器输入URL：
+- URL（Uniform Resource Locator）统一资源定位器，是计算机Web网络相关的术语，就是网页地址的意思。
+
+##1、URL四中协议
+
+①HTTP：HTTP，即超文本传输协议，是 HyperText Transfer Protocol的缩写。浏览网页时在浏览器地址栏中输入的URL前面都是 以"http://"开始的。HTTP定义了信息如何被格式化、如何被传输，以及在各种命令下服务器和浏览器所采取的响应。
+
+②HTTPS：HTTPS（全称：Hypertext Transfer Protocol over Secure Socket Layer），是以安全为目标的HTTP通道，简单讲是HTTP的安全版。即HTTP下加入SSL层，HTTPS的安全基础是SSL，因此加密的详细内容就需要SSL。
+
+③FTP：FTP则是File Transfer Protocol文件传输协议。
+
+④FILE：本地文件传输协议，File协议主要用于访问本地计算机中的文件。
+重点：https比http更安全
+
+域名解析：
